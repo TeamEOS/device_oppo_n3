@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "device_oppo_msm8974-common",
+    "target_path": "device/oppo/msm8974-common"
+  },
+  {
+    "remote": "github",
+    "repository": "android_kernel_oppo_n3",
+    "target_path": "kernel/oppo/n3"
+    "revision": "cm-12.1"
+  },
+  {
+    "repository": "vendor_oppo",
+    "target_path": "vendor/oppo"
+  }
+]
