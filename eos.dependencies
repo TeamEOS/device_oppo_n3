@@ -1,14 +1,20 @@
 [
   {
-    "repository": "device_oppo_msm8974-common",
+    "remote": "github",
+    "repository": "cyanogenmod/android_device_oppo_msm8974-common",
+    "revision": "cm-12.1",
     "target_path": "device/oppo/msm8974-common"
   },
   {
-    "repository": "device_oppo_common",
+    "remote": "github",
+    "repository": "cyanogenmod/android_device_oppo_common",
+    "revision": "cm-12.1",
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "device_qcom_common",
+    "remote": "github",
+    "repository": "cyanogenmod/android_device_qcom_common",
+    "revision": "cm-12.1",
     "target_path": "device/qcom/common"
   },
   {
@@ -18,7 +24,9 @@
     "revision": "cm-12.1"
   },
   {
-    "repository": "vendor_oppo",
+    "remote": "github",
+    "repository": "themuppets/proprietary_vendor_oppo",
+    "revision": "cm-12.1",
     "target_path": "vendor/oppo"
   }
 ]
