@@ -12,9 +12,7 @@
     "target_path": "device/oppo/common"
   },
   {
-    "remote": "github",
-    "repository": "cyanogenmod/android_device_qcom_common",
-    "revision": "cm-12.1",
+    "repository": "device_qcom_common",
     "target_path": "device/qcom/common"
   },
   {
